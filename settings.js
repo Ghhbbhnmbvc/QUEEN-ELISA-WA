@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wbqh3Z0YGWBJERJNFMVVUQslXY1Ukarh2QfxmZENWOxUzS0oVdLJFUOdUYjEWaLdmVkVUTpwd=19188220749',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wYrF0NwdWRwRzbol3ZTpGZ3cTOxMTRQh2cCdzQnZ2QWBldNBjdYdWSJxWUjklaaNDSkR2cpwd=19188220749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -23,7 +23,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://devindakaveen5:CC2OquO5jGNi0E4E@cluster0.pmgik.mongodb.net/',
+  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://devindakaveen5:CtN341NUOYE90tYV@cluster0.e0f3z.mongodb.net/',
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
