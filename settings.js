@@ -28,9 +28,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NAME: 'ꜱᴛᴄᴜꜱᴛᴏᴍꜱ',
+  OWNER_NUMBER: '94721281510',
+  SUDO: '94721281510',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
@@ -48,10 +48,10 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,// Bot online status
-  READ_MESSAGE: false,
+  READ_MESSAGE: true,
   ANTI_MSG_SPAM: false,
-  ANTI_BAD_WORD: false,
-  ANTI_VIEW_ONES: false, // This not working now !
+  ANTI_BAD_WORD: true,
+  ANTI_VIEW_ONES: true, // This not working now !
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
   BLOCK_CMD_MSG_SEND: true,
@@ -61,7 +61,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_BOT: false,// disabled
   BUTTON_MESSAGES: false,// Don't change this
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
-  VIDEO_DOWNLOAD_TYPE: 'true', // video
+  VIDEO_DOWNLOAD_TYPE: 'selectable', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
   MSG: {
