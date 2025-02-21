@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wYrF0NwdWRwRzbol3ZTpGZ3cTOxMTRQh2cCdzQnZ2QWBldNBjdYdWSJxWUjklaaNDSkR2cpwd=19188220749',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==AMOd0Q6BjQrZDcsFnQaFGZPlnQxdHWLdkW0ZTT1oUOLZHO1Z0bIZDStV2NjMkeMFzdwkFNpwd=19188220749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -23,7 +23,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://devindakaveen5:CtN341NUOYE90tYV@cluster0.e0f3z.mongodb.net/',
+  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://elisax:elisa123@cluster0.tf0ys.mongodb.net/',
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
@@ -66,7 +66,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
   MSG: {
     ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
-    ONLY_PM_MSG: 'Bot only Can Use Private Chats!',
+    ONLY_PM_MSG: 'true',
     BAD_DETECT_MSG: '@user Bad Words Are Disable by Owner!',
     BANED_MSG: "@user You Can't use bot, You are baned by owner!",
     GROUP_LEAVE: '👋 Bye @groupName I am Going.',
