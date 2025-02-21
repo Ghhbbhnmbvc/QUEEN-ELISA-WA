@@ -61,7 +61,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_BOT: false,// disabled
   BUTTON_MESSAGES: false,// Don't change this
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
-  VIDEO_DOWNLOAD_TYPE: 'selectable', // video
+  VIDEO_DOWNLOAD_TYPE: 'true', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
   MSG: {
